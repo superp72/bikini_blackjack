@@ -11,6 +11,8 @@
 //     else {return "Spades";}
 // }
 
+// just adding this to save 
+
 // var card = score % 13;
 
 // console.log("You got a " + card + " of " + findSuit());
