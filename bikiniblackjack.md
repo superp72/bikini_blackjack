@@ -39,7 +39,7 @@ Welcome to Bikini Blackjack.
 
 
 ### Make an Array - (1,2,3, .... 50,51,52)
-### Make rule:
+### Develop Objects:
 [1] - [13] = Hearts
 [14] - [26] = Diamonds
 [27] - [39] = Spades
@@ -124,6 +124,11 @@ Each card has a vlue.
 
 Need to be able to shuffle the card to deal random card with a value 
 
+
+This is from Code Accademy - Blackjack -> 
+I worked through the quite a bit of Javascript, including a blackjack
+eercise, and this was the code that got me all the way through and completed
+the blackjack course.
 
  // Card Constructor
 function Card (s, n) {
