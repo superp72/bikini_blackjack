@@ -1,5 +1,4 @@
 //Dealing a card
-
 //  var randomCard = Math.floor(Math.random()*52+1);
 // console.log("I got the card "+randomCard);
 
@@ -36,20 +35,12 @@ var getValue = function(card) {
         {
             return 10;
         }
-<<<<<<< HEAD
   // What if it's an ace?
-=======
-  // if it's an ace?
->>>>>>> master
 else if (card % 13 === 1)
         {
             return 11;
         }
-<<<<<<< HEAD
   // Otherwise, we just want its number value
-=======
-  // Otherwise just want its number value
->>>>>>> master
  else
         {
             return card %13;
