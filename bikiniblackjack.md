@@ -121,6 +121,30 @@ Each card is unique "#" and this can be used
 Each card has a unique label ie "King of Clubs"
 Each card has a vlue.
 
+-------------------------------------------------------------------
+First Aim:
+
+At this point I am struggling to get the task complete Sun 00:00 NY time
+
+Aim: 
+To get the game or atleast the first part working in the console:
+
+First part: Deal Random Cards 2 to player and 2 to Dealer (one being unknown)
+Want to display "Player has 2 Hearts and Ace of Hearts for a Score of 13" 
+"Dealer as a 5 of Clubs and an unknownwn card".
+
+this could change......... moving target :)))))!!!!!
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------
 
 Need to be able to shuffle the card to deal random card with a value 
 

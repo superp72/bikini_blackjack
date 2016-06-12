@@ -1,5 +1,5 @@
-//Dealing a card
-//  var randomCard = Math.floor(Math.random()*52+1);
+Dealing a card
+//var randomCard = Math.floor(Math.random()*52+1);
 // console.log("I got the card "+randomCard);
 
 // var score = Math.floor(Math.random()*52+1);
