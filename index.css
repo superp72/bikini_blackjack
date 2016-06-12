@@ -1,4 +1,30 @@
+<<<<<<< HEAD
 img {
 	display:inline-block;
 	
 }
+=======
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+h2 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+}
+
+h2 span { 
+   color: rgb(12, 247, 247);
+   font: bold 48px/90px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+}
+h2 span.spacer {
+   padding:0 5px;
+}
+
+>>>>>>> master

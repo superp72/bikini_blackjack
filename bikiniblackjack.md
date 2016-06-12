@@ -141,8 +141,17 @@ this could change......... moving target :)))))!!!!!
 
 
 
+<<<<<<< HEAD
 
 
+=======
+--------------------------------------------------------------------
+
+Potentionally this could be incorporated into E-COMM = as a vehicle to
+capture email contact details for marketing:
+"Offer Gift-Certificate for purchase"
+Obviously further thought - mechanics and legalities....
+>>>>>>> master
 
 --------------------------------------------------------------------
 
