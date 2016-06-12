@@ -141,8 +141,12 @@ this could change......... moving target :)))))!!!!!
 
 
 
+--------------------------------------------------------------------
 
-
+Potentionally this could be incorporated into E-COMM = as a vehicle to
+capture email contact details for marketing:
+"Offer Gift-Certificate for purchase"
+Obviously further thought - mechanics and legalities....
 
 --------------------------------------------------------------------
 
