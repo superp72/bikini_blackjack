@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 // //Dealing a card:
 
 
-=======
 // //Dealing a card
->>>>>>> master
+
 
 // //  var randomCard = Math.floor(Math.random()*52+1);
 // // console.log("I got the card "+randomCard);
@@ -25,14 +23,13 @@
 // // //still need to work out say "12 of Hearts"
 // //still need to work out say "0 of Spades"
 // // Our deal function will return a random card
-<<<<<<< HEAD
 
-=======
+
 // var deal = function() {
 //   card = Math.floor(Math.random()*52+1);
 //   return card;
 // };
->>>>>>> master
+
 
 // // Deal out our first hand
 // var card1 = deal();
@@ -40,14 +37,12 @@
 
 // // This function takes a card as a parameter and returns the value
 // // of that card
-<<<<<<< HEAD
+
 // varvar deal = function() {
 //   card = Math.floor(Math.random()*52+1);
 //   return card;
 // }; getValue = function(card) {
-=======
 // var getValue = function(card) {
->>>>>>> master
 //   // if its a face card, number should be set to 10        
 //    if (card % 13 === 0 || card % 13 === 11 || card % 13 === 12) 
 //         {

@@ -137,21 +137,37 @@ this could change......... moving target :)))))!!!!!
 
 
 
+-------------------------------------------------------
+BIKINI BLACKJACK / 21   
+
+Player                          AMOUNT  $1000
+    1. 4 of Hearts____          BET      $100
+    2. Ace of Diamonds          
+    3. _______________          HIT/STAND/SPLIT/DOUBLE
+    4. _______________
+    5. _______________          SCORE _15_________
+
+
+Dealer
+    1. Unknown________          
+    2. 10 of Clubs____
+    3. _______________
+    4. _______________
+    5. _______________          SCORE ____________
+
+-------------------------------------------------------
 
 
 
 
-<<<<<<< HEAD
 
 
-=======
 --------------------------------------------------------------------
 
 Potentionally this could be incorporated into E-COMM = as a vehicle to
 capture email contact details for marketing:
 "Offer Gift-Certificate for purchase"
 Obviously further thought - mechanics and legalities....
->>>>>>> master
 
 --------------------------------------------------------------------
 
@@ -162,6 +178,8 @@ This is from Code Accademy - Blackjack ->
 I worked through the quite a bit of Javascript, including a blackjack
 eercise, and this was the code that got me all the way through and completed
 the blackjack course.
+
+By no means is it correct!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
  // Card Constructor
 function Card (s, n) {
