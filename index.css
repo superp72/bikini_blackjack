@@ -39,13 +39,13 @@ h2 span.spacer {
 }
 
 }
-#wrapper td {
+/*#wrapper td {
 	position: absolute;
    vertical-align: middle;
    text-align: center;
    top: 600px;
    left: 25px;
-}
+}*/
 
 /*div.horizontal {
     display: flex;
