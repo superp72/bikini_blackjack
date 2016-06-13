@@ -1,8 +1,23 @@
-.image { 
+.background {
+	position: relative;
+	top: 0;
+	left:0;
+
+
+}
+.scoreboard{
+	position: absolute;
+	top: 750px;
+	left: 25px;
+
+}
+
+
+/*.image { 
    position: relative; 
    width: 100%; 
    display:inline-block;	
-	}
+	}*/
 
 h2 { 
    position: absolute; 
@@ -25,6 +40,21 @@ h2 span.spacer {
 
 }
 #wrapper td {
+	position: absolute;
    vertical-align: middle;
    text-align: center;
+   top: 600px;
+   left: 25px;
 }
+
+/*div.horizontal {
+    display: flex;
+    justify-content: center;
+}
+
+div.vertical {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+*/
