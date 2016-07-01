@@ -1,7 +1,5 @@
 Welcome to Bikini Blackjack.
 
-"Just making a change for Matts git video"
-
 ### Bikini Blackjack.
 
 ### Make a card with a unique identifier (going to need 52 of them (4 suits(13cards per suit))).
